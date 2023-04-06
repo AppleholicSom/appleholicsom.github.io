@@ -74,7 +74,7 @@ https://templatemo.com/tm-548-training-studio
     <!-- ***** Main Banner Area Start ***** -->
     <div class="main-banner" id="top">
         <video autoplay muted loop id="bg-video">
-            <source src="assets/images/Main.mp4" type="video/mp4" />
+            <source src="assets/images/LogoVideo.mp4" type="video/mp4" />
         </video>
 
         <div class="video-overlay header-text">
@@ -82,7 +82,7 @@ https://templatemo.com/tm-548-training-studio
                 <h6>work harder, get stronger</h6>
                 <h2>easy with our <em>gym</em></h2>
                 <div class="main-button scroll-to-section">
-                    <a href="#features">Become a member</a>
+                    <a href="#" >Become a member</a>
                 </div>
             </div>
         </div>
@@ -254,7 +254,7 @@ https://templatemo.com/tm-548-training-studio
     </section>
     <!-- ***** Our Classes End ***** -->
     
-    <section class="section" id="schedule">
+    <section class="section" id="-">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
@@ -471,6 +471,8 @@ https://templatemo.com/tm-548-training-studio
     
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
+<script>
 
+</script>
   </body>
 </html>
