@@ -58,6 +58,7 @@ https://templatemo.com/tm-548-training-studio
                             <li class="scroll-to-section"><a href="#our-classes">Classes</a></li>
                             <li class="scroll-to-section"><a href="#schedule">Schedules</a></li>
                             <li class="scroll-to-section"><a href="#contact-us">Contact</a></li> 
+                            <li class="scroll-to-section"><a href="#trainers">Trainer</a></li>
                             <li class="main-button"><a href="#">Sign Up</a></li>
                         </ul>        
                         <a class='menu-trigger'>
@@ -82,7 +83,7 @@ https://templatemo.com/tm-548-training-studio
                 <h6>work harder, get stronger</h6>
                 <h2>easy with our <em>gym</em></h2>
                 <div class="main-button scroll-to-section">
-                    <a href="#" >Become a member</a>
+                    <a href="#features">Become a member</a>
                 </div>
             </div>
         </div>
@@ -254,7 +255,7 @@ https://templatemo.com/tm-548-training-studio
     </section>
     <!-- ***** Our Classes End ***** -->
     
-    <section class="section" id="-">
+    <section class="section" id="schedule">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-3">
@@ -343,9 +344,10 @@ https://templatemo.com/tm-548-training-studio
                             <p>Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.</p>
                             <ul class="social-icons">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-behance"></i></a></li> -->
                             </ul>
                         </div>
                     </div>
@@ -361,9 +363,10 @@ https://templatemo.com/tm-548-training-studio
                             <p>Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.</p>
                             <ul class="social-icons">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://instagram.com/appleholic_som?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-behance"></i></a></li> -->
                             </ul>
                         </div>
                     </div>
@@ -379,9 +382,10 @@ https://templatemo.com/tm-548-training-studio
                             <p>Bitters cliche tattooed 8-bit distillery mustache. Keytar succulents gluten-free vegan church-key pour-over seitan flannel.</p>
                             <ul class="social-icons">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-behance"></i></a></li> -->
                             </ul>
                         </div>
                     </div>
@@ -397,7 +401,7 @@ https://templatemo.com/tm-548-training-studio
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-xs-12">
                     <div id="map">
-                      <iframe src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="600px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                      <iframe src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=veer fitness karjat india&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="100%" height="600px" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12">
@@ -443,9 +447,9 @@ https://templatemo.com/tm-548-training-studio
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; 2020 Training Studio
+                    <p>Copyright &copy; <script type="text/javascript">document.write( new Date().getFullYear() );</script>. Veer Fitness Studio
                     
-                    - Designed by <a rel="nofollow" href="https://templatemo.com" class="tm-text-link" target="_parent">TemplateMo</a></p>
+                    - Delivered by <a rel="nofollow" href="https://subaliinfotech.com" class="tm-text-link" target="_blank">SuBali Infotech</a></p>
                     
                     <!-- You shall support us a little via PayPal to info@templatemo.com -->
                     
@@ -471,8 +475,6 @@ https://templatemo.com/tm-548-training-studio
     
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
-<script>
 
-</script>
   </body>
 </html>
